@@ -1,0 +1,54 @@
+VATSAEDU.BO	VATSA EDUCATIONS LTD.	BSE	India		0	
+RES.TO	Rare Element Resources Ltd.	TOR	Canada	Conglomerates	210	
+WELLNESS.BO	WELLNESS NONI LTD.	BSE	India		0	
+WNGRF	George Weston Limited	PNK	USA		0	
+ECV.L	Eco City Vehicles plc	LSE	UK	Auto Dealerships	744	
+RXNRP	REX ENERGY CORP	PNK	USA		0	
+HAL	Halliburton Company	NYQ	USA	Oil & Gas Equipment & Services	124	
+MCF	Contango Oil & Gas Company	ASE	USA	Independent Oil & Gas	121	
+ADRO.JK	ADARO ENERGY TBK IDR100	JKT	Indonesia		0	
+CASS	Cass Information Systems, Inc.	NMS	USA	Business Services	760	
+YESB.BO	YESB CNV 15-OCT 600.00	BSE	India		0	
+ORN.MX	L'OREAL	MEX	Mexico		0	
+EUGFF	Dundee Energy Limited	PNK	USA		0	
+BKS3.F	BBS KRAFTFAHRZG VZ	FRA	Germany	Auto Parts	333	
+M0X.F	MPLX	FRA	Germany		0	
+5049@BN.KL	COUNTRY VIEW BHD	KLS	Malaysia		0	
+9957.TWO	YUSCO	TWO	Taiwan		0	
+XXNCC	DEL TACO RESTAURANT 	PNK	USA		0	
+APH.MX	AMPHENOL-A	MEX	Mexico		0	
+KAJ.DU	KAJIMA	DUS	Germany	General Contractors	636	
+1904.TW	Cheng Loong Corp.	TAI	Taiwan	Paper & Paper Products	324	
+MHN.L	Menhaden Capital	LSE	UK		0	
+QTS.BE	QUINTILES TRANSNAT	BER	Germany		0	
+VMPT	VAMPT AMERICA, INC.	PNK	USA		0	
+GGB	Gerdau S.A.	NYQ	USA	Steel & Iron	130	
+DNO.BE	DENSO	BER	Germany	Auto Parts	333	
+WM1.MU	WILLIAMS-SONOMA	MUN	Germany	Specialty Retail, Other	745	
+WDI.EX	WIRECARD	EUX	Germany		0	
+BRYAT.IS	Borusan Yatirim ve Pazarlama A.S.	IST	Turkey		0	
+SFCL.NS	Star Ferro and Cement Limited	NSI	India	General Building Materials	634	
+PZBW	Plaza Bank	PNK	USA	Regional - Pacific Banks	416	
+7198.KL	DPS Resources Bhd	KLS	Malaysia		0	
+RIGL	Rigel Pharmaceuticals, Inc.	NMS	USA	Drugs - Generic	512	
+WGNR	Wegener Corp.	PNK	USA		0	
+MXGFF	Maxim Power Corp.	PNK	USA		0	
+ZAZ.IR	ZAMANO	ISE	UK		0	
+SOFO	Sonic Foundry, Inc.	NCM	Australia	Application Software	821	
+NOC	Northrop Grumman Corporation	NYQ	USA	Aerospace/Defense - Major Diversified	610	
+QC1.F	NY COMMTY BANCORP	FRA	Germany	Savings & Loans	419	
+4543.TWO	MAN ZAI	TWO	Taiwan		0	
+TKECF	Tokyo Electric Power Company, Incorporated	PNK	USA		0	
+BBSI	Barrett Business Services Inc.	NMS	USA	Staffing & Outsourcing Services	764	
+PSAN.DE	PSI Aktiengesellschaft für Produkte und Systeme der Informationstechnologie
+	GER	Germany	Business Software & Services	826	
+GFOX	Gray Fox Petroleum Corp.	PNK	USA	Independent Oil & Gas	121	
+SWJ.L	John Swan & Sons plc	LSE	UK		0	
+JRO	Nuveen Floating Rate Income Opportunity Fund	NYQ	USA		0	
+XPL	Solitario Exploration & Royalty Corp.	ASE	USA	Gold	134	
+0960.HK	Longfor Properties Co., Ltd.	HKG	Hong Kong	Property Management	448	
+VIGLF	VIGIL HEALTH SOLUT	PNK	USA		0	
+LDNXF	London Stock Exchange Group plc	PNK	USA		0	
+PPS	Post Properties Inc.	NYQ	USA	REIT - Residential	445	
+VRBCF	Virbac SA	PNK	USA		0	
+CN.V	Condor Resources Inc.	VAN	Canada	Industrial Metals & Minerals	133	
