@@ -57,6 +57,7 @@
   <ItemGroup>
     <None Include="App.config" />
     <None Include="packages.config" />
+    <None Include="Yahoo Ticker Symbols - Jan 2016.xlsx" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="tests.txt" />

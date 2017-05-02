@@ -22,8 +22,16 @@ namespace PopulateTickerTable
                 }
             }
 
+            string currentDir = Environment.CurrentDirectory;
+            DirectoryInfo directory = new DirectoryInfo(currentDir);
 
-            using (FileStream stream = File.Open(@"c:\users\alex\documents\visual studio 2015\Projects\ExcelReader\ExcelReader\Yahoo Ticker Symbols - Jan 2016.xlsx", FileMode.Open, FileAccess.Read))
+            string excelFilePath = directory.FullName;
+            excelFilePath = excelFilePath.Replace(@"bin\Debug", "Yahoo Ticker Symbols - Jan 2016.xlsx");
+
+            Console.WriteLine(excelFilePath);
+            //Console.ReadLine(); 
+
+            using (FileStream stream = File.Open(excelFilePath, FileMode.Open, FileAccess.Read))
 
             {
                 IExcelDataReader excelReader = ExcelReaderFactory.CreateOpenXmlReader(stream);
@@ -49,7 +57,7 @@ namespace PopulateTickerTable
                         if (data[0] != null)
                         {
                             realTicker = data[0].ToString();
-                            storageTicker = "TN_" + (realTicker.Replace('-', 'd').Replace('_', 'u').Replace('.', 'p'));
+                            storageTicker = "TN_" + (realTicker.Replace("-", "dd").Replace("_", "uu").Replace(".", "pp").Replace("@", "aa").Replace("^", "cc"));
                         }
                         if (data[1] != null) name = data[1].ToString();
                         if (data[2] != null) exchange = data[2].ToString();
